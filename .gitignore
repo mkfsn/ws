@@ -1,0 +1,7 @@
+# binary
+ws
+
+# vendor
+!vendor
+vendor/*
+!vendor/vendor.json
